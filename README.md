@@ -1,1 +1,1 @@
-# dependabot-demo
+# dependabot-demo-gradle
